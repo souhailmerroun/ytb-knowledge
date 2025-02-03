@@ -1,0 +1,6 @@
+
+pytube 
+gunicorn
+Flask
+moviepy==1.0.3
+yt-dlp
